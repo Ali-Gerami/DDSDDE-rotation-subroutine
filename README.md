@@ -4,4 +4,4 @@ This repository contains a subroutine that can be called in UMAT or another same
 
 It is prepared for 2d planar elements (Plane Stress or Plane Strain).
 
-Inputs and output format has been explained in .for file.
+Inputs and output format has been explained in *rotate2d.for* file.
