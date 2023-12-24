@@ -64,7 +64,7 @@ C     CALCULATE T-MATRIX:
        END DO
        DO j=4,6
           T(i,j) = (ROT(M(i-2),M(j-2))*ROT(M(i-1),M(j-1))) +
-     o            (ROT(M(i-2),M(j-1))*ROT(M(i-1),M(j-2)))
+     +            (ROT(M(i-2),M(j-1))*ROT(M(i-1),M(j-2)))
        END DO
       END DO
       
